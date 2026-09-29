@@ -1,1 +1,1 @@
-# git-essential-project
+# git_essential_project
